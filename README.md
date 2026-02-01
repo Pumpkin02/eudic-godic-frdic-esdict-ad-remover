@@ -2,7 +2,7 @@
 
 [![版本](https://img.shields.io/greasyfork/v/564843?label=%E7%89%88%E6%9C%AC&color=blue)](https://greasyfork.org/zh-CN/scripts/564843)
 [![安装量](https://img.shields.io/greasyfork/dt/564843?label=%E5%AE%89%E8%A3%85%E9%87%8F&color=green)](https://greasyfork.org/zh-CN/scripts/564843)
-[![评分](https://img.shields.io/greasyfork/rating/564843?label=%E8%AF%84%E5%88%86&color=orange)](https://greasyfork.org/zh-CN/scripts/564843)
+[![Stars](https://img.shields.io/github/stars/Pumpkin02/eudic-ad-remover?label=%E7%82%B9%E8%B5%9E&color=orange)](https://github.com/Pumpkin02/eudic-ad-remover)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Tampermonkey](https://img.shields.io/badge/Tampermonkey-%E5%B7%B2%E4%BC%98%E5%8C%96-red)](https://www.tampermonkey.net/)
 
