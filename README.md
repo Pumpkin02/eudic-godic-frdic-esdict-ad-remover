@@ -1,10 +1,8 @@
 # 欧路助手系列 - 全屏广告遮罩修复插件
 
-[![版本](https://img.shields.io/greasyfork/v/564843?label=%E7%89%88%E6%9C%AC&color=blue)](https://greasyfork.org/zh-CN/scripts/564843)
-[![安装量](https://img.shields.io/greasyfork/dt/564843?label=%E5%AE%89%E8%A3%85%E9%87%8F&color=green)](https://greasyfork.org/zh-CN/scripts/564843)
-[![Stars](https://img.shields.io/github/stars/Pumpkin02/eudic-ad-remover?label=%E7%82%B9%E8%B5%9E&color=orange)](https://github.com/Pumpkin02/eudic-ad-remover)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Tampermonkey](https://img.shields.io/badge/Tampermonkey-%E5%B7%B2%E4%BC%98%E5%8C%96-red)](https://www.tampermonkey.net/)
+![Tampermonkey](https://img.shields.io/badge/Tampermonkey-已优化-green.svg)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Downloads](https://img.shields.io/greasyfork/dt/564843?label=安装量&color=green)
 
 这是一个专门为 **欧路词典 (Eudic)** 网页版及其旗下多语种助手开发的油猴脚本。旨在彻底解决网页版因 Google 全屏广告遮罩导致页面无法点击、滚动条锁死的问题。
 
