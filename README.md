@@ -2,6 +2,7 @@
 
 [![Tampermonkey](https://img.shields.io/badge/Tampermonkey-Enabled-green.svg)](https://www.tampermonkey.net/)
 [![Platform](https://img.shields.io/badge/Platform-Chrome%20|%20Edge%20|%20Firefox-blue.svg)](#)
+![Downloads](https://img.shields.io/greasyfork/dt/564843?label=安装量&color=green)
 
 这是一个专门为 **欧路词典 (Eudic)** 网页版及其旗下多语种助手开发的油猴脚本。旨在彻底解决网页版因 Google 全屏广告遮罩导致页面无法点击、滚动条锁死的问题。
 
